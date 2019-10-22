@@ -10,7 +10,7 @@
 
 ## Cita favorita
 
-> Elental mi querido Watson. - Conan Doyle
+> Elemental mi querido Watson. -Conan Doyle
 
 ## Si fuera presidente
 
