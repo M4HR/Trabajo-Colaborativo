@@ -6,6 +6,7 @@
 * Deportes
 * Videojuegos
 * Dormir
+* Comer
 
 ## Cita favorita
 > Solo se que nada se. -Socrates
