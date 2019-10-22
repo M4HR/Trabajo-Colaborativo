@@ -7,6 +7,7 @@
 * Comer
 * Videojuegos
 * Musica
+* Leer
 
 ## Cita favorita
 
